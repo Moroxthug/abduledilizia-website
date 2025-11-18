@@ -1,0 +1,29 @@
+Both the page title and meta description are missing keywords.
+You need to use titles and descriptions that are attractive to users and contain your keywords. Use the keywords naturally - keyword stuffing is usually detected and will result in a lower ranking. What's more, it's pretty off-putting for potential readers, who are more likely to click on an appealing link.
+
+No H1 tag was found. For the best SEO results there should be exactly one H1 tag on each page.
+WordPress sites usually insert the page or post title as an H1 tag (although custom themes can change this behavior).
+
+Ensure your most important keywords appear in the H1 tag - don't force it, use them in a natural way that makes sense to human readers.
+
+Because your headline plays a large role in reader engagement, it's worth spending extra time perfecting it. Many top copywriters spend hours getting their headlines just right - sometimes they spend longer on the headline than the rest of the article!
+
+A good headline stimulates reader interest and offers a compelling reason to read your content. It promises a believable benefit.
+
+You should write as if your readers are selfish people with short attention spans (because that describes a large percentage of the world's population). Readers visit websites for selfish reasons - they're not there to make you happy.
+
+No H2 tags were found on the page.
+
+
+
+
+All images on the page have alt attributes.
+
+No internal links were found on the page.
+Internal: 0
+
+External: 0
+
+Add links to external resources that are useful for your readers. Make sure you link to high-quality sites - Google penalizes pages that link to "spammy" sites (ones that break the Google webmaster guidelines).
+
+Ideally, the links should be highly relevant to the subject you're writing about. It's impossible to cover every aspect of a subject on a single page, but your readers may be fascinated by some detail you barely touch on. If you link to a resource where they can learn more, they'll be grateful. What's more, you'll be rewarded with higher rankings!

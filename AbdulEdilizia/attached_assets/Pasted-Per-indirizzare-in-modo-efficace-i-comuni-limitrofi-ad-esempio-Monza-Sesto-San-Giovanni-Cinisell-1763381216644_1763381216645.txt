@@ -1,0 +1,34 @@
+Per indirizzare in modo efficace i comuni limitrofi (ad esempio, Monza, Sesto San Giovanni, Cinisello Balsamo), il sito deve implementare una strategia di "City Pages" (Pagine per Comune). Questa richiede la creazione di template replicabili con variazioni strategiche di contenuto.
+
+A. Creazione e Replicazione del Template
+File Template di Base: Creare un file HTML di base per le pagine di servizio replicabili, denominato, ad esempio, _city_template.html.
+
+Pagine per Comune Richieste: Generare 3 pagine specifiche per comuni (da aggiungere alle pagine di servizio principali):
+
+monza.html
+
+sesto-san-giovanni.html
+
+cinisello-balsamo.html
+
+B. Variazioni SEO Obbligatorie per Pagina per Comune
+Il generatore di codice deve garantire che i seguenti elementi chiave siano modificati in modo dinamico e specifico su ogni pagina per comune, per massimizzare la pertinenza e prevenire penalizzazioni da parte di Google:
+
+Tag H1: Deve essere unico e includere il nome del comune target.
+
+Esempio: In monza.html, l'H1 sarà: Ristrutturazioni Edili di Alta Qualità a Monza.
+
+Title Tag: Deve seguire la struttura: [Parola Chiave Servizio] a [NOME COMUNE] | Abdul Edilizia.
+
+Esempio per Sesto San Giovanni: <title>Rifacimento Bagni e Cucina a Sesto San Giovanni | Abdul Edilizia</title>
+
+Sezione Contenuto Unico: Ogni pagina deve contenere un placeholder ben visibile per almeno 150 parole di testo unico, specifico per il comune. Questo testo deve fare riferimento a punti di interesse locali, problematiche comuni degli immobili o una success story (caso di studio) in quel comune. Questo è cruciale per la qualità del contenuto.
+
+Schema Markup Locale: Implementare uno Schema JSON-LD LocalBusiness o Service focalizzato specificamente su quel comune. Il campo areaServed o la descrizione del servizio deve essere prioritizzata per la rispettiva città.
+
+Mappa Geo-Targettizzata: Sostituire la mappa aziendale predefinita con un iframe di Google Maps centrato sul comune specifico (ad esempio, il centro o un quartiere noto di Cinisello Balsamo).
+
+C. Menu a Tendina (Dropdown) nell'Header
+Aggiornamento Header: Modificare l'header/barra di navigazione principale (<nav>) per includere un menu a tendina etichettato "Comuni Serviti" o "Dove Operiamo".
+
+Link nel Dropdown: Questo menu a tendina deve linkare a tutte le pagine per comune create (monza.html, sesto-san-giovanni.html, cinisello-balsamo.html, ecc.). Questo garantisce che gli utenti trovino il contenuto localizzato e imita la struttura che hai osservato.

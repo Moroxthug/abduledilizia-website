@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Abdul Edilizia | Ristrutturazioni Edili Garantite a Muggiò, Monza e Milano</title>
+    <meta name="description" content="L'impresa edile di fiducia per ristrutturazioni chiavi in mano in Brianza e Milano. Qualità, preventivi chiari e rispetto delle scadenze. Contattaci oggi!">
+    <meta name="keywords" content="ristrutturazioni muggiò, impresa edile monza, rifacimento bagni milano, cappotti termici, edilizia residenziale, preventivi ristrutturazioni">
+    <link rel="canonical" href="https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6/index.html">
+
+    <meta property="og:title" content="Abdul Edilizia | Ristrutturazioni a Monza e Brianza">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6">
+    <meta property="og:site_name" content="Abdul Edilizia">
+
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["LocalBusiness", "ConstructionCompany"],
+      "name": "Abdul Edilizia",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Aldo Moro 6",
+        "addressLocality": "Muggiò",
+        "addressRegion": "MB",
+        "postalCode": "20841",
+        "addressCountry": "IT"
+      },
+      "telephone": "+393392553291",
+      "email": "abdul@abduledilizia.it",
+      "areaServed": ["Monza", "Milano", "Brianza", "Muggiò"],
+      "openingHours": "Mo-Sa 08:00-18:00"
+    }
+    </script>
+</head>
+<body>
+
+    <header id="header">
+        <div class="logo">
+            <a href="index.html">ABDUL EDILIZIA</a>
+        </div>
+        <nav class="desktop-nav">
+            <ul>
+                <li><a href="servizi.html">Servizi</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="chi-siamo.html">Chi Siamo</a></li>
+                <li><a href="contatti.html">Contatti</a></li>
+            </ul>
+        </nav>
+        <a href="contatti.html" class="cta-button">Preventivo Gratuito</a>
+        <button class="hamburger-menu">[Icona]</button>
+    </header>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="hero-content">
+                <h1>La Tua Ristrutturazione Senza Stress. Qualità Garantita.</h1>
+                <p>Specialisti in ristrutturazioni complete per case e uffici a Muggiò e in tutta la Brianza.</p>
+                <a href="contatti.html" class="cta-primary">Inizia il Tuo Progetto Oggi</a>
+            </div>
+            <div class="hero-image">[Immagine di Progetto Edile Moderno]</div>
+        </section>
+
+        <section id="servizi-overview" class="section-padding">
+            <h2>I Nostri Servizi Edili Chiavi in Mano</h2>
+            <div class="services-grid">
+                <a href="ristrutturazioni-complete.html" class="service-card">
+                    [Icona Casa]
+                    <h3>Ristrutturazioni Complete</h3>
+                    <p>Dalla demolizione alle finiture, gestiamo tutto il progetto.</p>
+                </a>
+                <a href="specific-works.html#bagni-cucine" class="service-card">
+                    [Icona Rubinetto]
+                    <h3>Rifacimento Bagni e Cucine</h3>
+                    <p>Interventi idraulici, impiantistici e di design.</p>
+                </a>
+                <a href="specific-works.html#cappotti-termici" class="service-card">
+                    [Icona Isolamento]
+                    <h3>Cappotti Termici e Facciate</h3>
+                    <p>Migliora l'efficienza energetica del tuo immobile.</p>
+                </a>
+                <a href="portfolio.html" class="service-card">
+                    [Icona Progetto]
+                    <h3>I Nostri Lavori</h3>
+                    <p>Sfoglia il portfolio e verifica la qualità.</p>
+                </a>
+            </div>
+        </section>
+
+        <section id="valori" class="section-padding background-light">
+            <h2>Perché Scegliere Abdul Edilizia</h2>
+            <div class="values-bar">
+                <div class="value-item">
+                    [Icona Bilancia]
+                    <h3>Trasparenza Totale</h3>
+                    <p>Preventivi dettagliati senza sorprese.</p>
+                </div>
+                <div class="value-item">
+                    [Icona Calendario]
+                    <h3>Rispetto delle Scadenze</h3>
+                    <p>Consegna garantita nei tempi concordati.</p>
+                </div>
+                <div class="value-item">
+                    [Icona Casco]
+                    <h3>Team Certificato</h3>
+                    <p>Personale qualificato e sicurezza sul cantiere.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="cta-banner" class="cta-banner">
+            <h3>Pronto per Iniziare? Parliamone.</h3>
+            <a href="contatti.html" class="cta-primary large-button">Contatta Abdul Edilizia Ora</a>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-grid">
+            <div class="footer-info">
+                <h4>Contatti</h4>
+                <p>Via Aldo Moro 6, 20841 Muggiò (MB)</p>
+                <p>Tel: +39 339 255 3291</p>
+                <p>Email: abdul@abduledilizia.it</p>
+            </div>
+            <div class="footer-links">
+                <h4>Link Utili</h4>
+                <ul>
+                    <li><a href="servizi.html">Servizi</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="chi-siamo.html">Chi Siamo</a></li>
+                </ul>
+            </div>
+            <div class="footer-legal">
+                <h4>Legale</h4>
+                <p>P.IVA: 09976150962</p>
+                <a href="#">Privacy Policy</a> | <a href="#">Cookie Policy</a>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025 Abdul Edilizia. Tutti i diritti riservati.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script> 
+</body>
+</html>

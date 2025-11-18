@@ -1,0 +1,79 @@
+Overall Site Score
+A very good score is between 60 and 80. For best results, you should strive for 70 and above.
+
+54 / 100
+Very Good
+22
+ of 22
+All Items
+
+9
+ of 22
+Critical Issues
+
+2
+ of 22
+Recommended
+
+11
+ of 22
+Good Results
+
+Basic SEO
+Advanced SEO
+Performance
+Security
+Mobile Snapshot
+
+Basic SEO
+The SEO title is 90 characters long, which is too long.
+Abdul Edilizia - Ristrutturazioni a Muggiò, Monza e Brianza | Professionisti dell'Edilizia
+Ensure your page's title includes your target keywords, and design it to encourage users to click.
+
+Writing compelling titles is both a science and an art. There are automated tools that can analyze your title against known metrics for readability and click-worthiness. You also need to understand the psychology of your target audience.
+
+The meta description is 188 characters long, which is too long.
+Abdul Edilizia offre servizi di ristrutturazione professionale a Muggiò, Monza, Milano e Brianza. Ristrutturazioni complete, bagni, cucine, tetti, facciate e impianti. Preventivo gratuito.
+Write a meta description for your page. Use your target keywords (in a natural way) and write with human readers in mind. Summarize the content - describe the topics your article discusses.
+
+The description should stimulate reader interest and get them to click on the article. Think of it as a mini-advertisement for your content.
+
+Both the page title and meta description are missing keywords.
+You need to use titles and descriptions that are attractive to users and contain your keywords. Use the keywords naturally - keyword stuffing is usually detected and will result in a lower ranking. What's more, it's pretty off-putting for potential readers, who are more likely to click on an appealing link.
+
+No H1 tag was found. For the best SEO results there should be exactly one H1 tag on each page.
+WordPress sites usually insert the page or post title as an H1 tag (although custom themes can change this behavior).
+
+Ensure your most important keywords appear in the H1 tag - don't force it, use them in a natural way that makes sense to human readers.
+
+Because your headline plays a large role in reader engagement, it's worth spending extra time perfecting it. Many top copywriters spend hours getting their headlines just right - sometimes they spend longer on the headline than the rest of the article!
+
+A good headline stimulates reader interest and offers a compelling reason to read your content. It promises a believable benefit.
+
+You should write as if your readers are selfish people with short attention spans (because that describes a large percentage of the world's population). Readers visit websites for selfish reasons - they're not there to make you happy.
+
+No internal links were found on the page.
+Internal: 0
+
+External: 0
+
+Add links to external resources that are useful for your readers. Make sure you link to high-quality sites - Google penalizes pages that link to "spammy" sites (ones that break the Google webmaster guidelines).
+
+Ideally, the links should be highly relevant to the subject you're writing about. It's impossible to cover every aspect of a subject on a single page, but your readers may be fascinated by some detail you barely touch on. If you link to a resource where they can learn more, they'll be grateful. What's more, you'll be rewarded with higher rankings!
+
+Advanced SEO
+Some Open Graph meta tags are missing.
+og:image
+og:url
+Insert a customized Open Graph meta tag for each important page on your site. The standard is very well documented - you can learn more from Facebook's developer pages.
+
+AIOSEO provides a simple but powerful interface to craft your Open Graph data. You get immediate feedback with an interactive preview, and you don't have to mess around with raw HTML markup.
+
+No Schema.org data was found on your page.
+AIOSEO makes it extremely easy to add highly relevant Schema.org markup to your site. It has a simple graphical interface, so you don't have to get your hands dirty with complex HTML markup.
+
+Performance
+The server is not using "expires" headers for the images.
+
+
+Some CSS files don't seem to be minified.

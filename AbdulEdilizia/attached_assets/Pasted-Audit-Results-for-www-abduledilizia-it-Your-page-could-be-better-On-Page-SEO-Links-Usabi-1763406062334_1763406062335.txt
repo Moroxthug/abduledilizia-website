@@ -1,0 +1,447 @@
+Audit Results for www.abduledilizia.it
+Your page could be better
+
+
+On-Page SEO
+
+Links
+
+Usability
+
+Performance
+
+Social
+
+Report Generated: 17 November 6:58PM UTC Refresh Results Now
+
+Improve Your Site With Our DIY SEO Tool
+Review unlimited pages. Crawl your whole site for problems and get clear, easy to follow recommendations with guides for your CMS. Monitor your keyword rankings and get regular updates on your site's performance.
+
+Helping Business Owners promote their websites the affordable way.
+
+
+Recommendations
+Execute a Link Building Strategy
+Links
+High Priority
+Reduce your total Page File Size
+Performance
+Medium Priority
+Increase length of Title Tag
+On-Page SEO
+Medium Priority
+Create and link your Facebook Page
+Social
+Low Priority
+Create and link your X Profile
+Social
+Low Priority
+Use your main keywords across the important HTML Tags
+On-Page SEO
+Low Priority
+Increase Page Text Content
+On-Page SEO
+Low Priority
+Optimize for Mobile PageSpeed Insights
+Usability
+Low Priority
+Optimize for Desktop PageSpeed Insights
+Usability
+Low Priority
+Add an SPF Mail Record
+Other
+Low Priority
+Implement an Analytics Tracking Tool
+On-Page SEO
+Low Priority
+Create and link an associated Instagram Profile
+Social
+Low Priority
+Create and link an associated YouTube Channel
+Social
+Low Priority
+Create and link an associated LinkedIn Profile
+Social
+Low Priority
+Add Identity Schema
+Other
+Low Priority
+Reduce Rendered Content
+On-Page SEO
+Low Priority
+Install a Facebook Pixel
+Social
+Low Priority
+Make better use of Website Compression
+Performance
+Low Priority
+On-Page SEO Results
+Your On-Page SEO is good
+Your page is mostly optimized for On-Page SEO performance. On-Page SEO is important to ensure Search Engines can understand your content appropriately and help it rank for relevant keywords. You can continue to improve your page by ensuring HTML Tag Content is completed correctly and text content is well aligned with chosen keywords.
+Title Tag
+You have a Title Tag, but ideally it should be between 50 and 60 characters in length (including spaces).
+Abdul Edilizia Muggiò | Economico e Alta Qualità
+Length : 48
+Title Tags are very important for search engines to correctly understand and categorize your content.
+Meta Description Tag
+Your page has a Meta Description of optimal length (between 120 and 160 characters).
+Ristrutturazioni economiche di altissima qualità a Muggiò e Monza. Prezzi competitivi, materiali premium, garanzia totale. Preventivo gratuito!
+Length : 143
+SERP Snippet Preview
+This illustrates how your page may appear in Search Results. Note, this is intended as a guide and Search Engines are more frequently generating this content dynamically.
+
+Abdul Edilizia
+https://www.abduledilizia.it
+Abdul Edilizia Muggiò | Economico e Alta Qualità
+Ristrutturazioni economiche di altissima qualità a Muggiò e Monza. Prezzi competitivi, materiali premium, garanzia totale. Preventivo gratuito!
+Hreflang Usage
+Your page is not making use of Hreflang attributes.
+Language
+Your page is using the Lang Attribute.
+Declared: Italian
+H1 Header Tag Usage
+Your page has a H1 Tag.
+H2-H6 Header Tag Usage
+Your page is making use multiple levels of Header Tags.
+Header Tag	Frequency	
+H2	4	
+H3	12	
+H4	0	
+H5	0	
+H6	0	
+Keyword Consistency
+Your page's main keywords are not distributed well across the important HTML Tags.
+Your page content should be focused around particular keywords you would like to rank for. Ideally these keywords should also be distributed across tags such as the title, meta and header tags.
+Individual Keywords
+Keyword	Title	Meta Description Tag	Headings Tags	Page Frequency	
+ristrutturazione	
+10	
+più	
+8	
+nostri	
+7	
+scopri	
+7	
+servizi	
+6	
+muggiò	
+6	
+monza	
+6	
+ristrutturazioni	
+5	
+Phrases
+Phrase	Title	Meta Description Tag	Headings Tags	Page Frequency	
+scopri di	
+6	
+di più	
+6	
+scopri di più	
+6	
+i nostri	
+5	
+e brianza	
+4	
+richiedi preventivo	
+3	
+monza e	
+3	
+ristrutturazioni complete	
+3	
+Amount of Content
+Your page has a low volume of text content which search engines can interpret as 'thin content'.
+Word Count: 448
+It has been well researched that higher text content volumes are related to better ranking ability in general.
+Image Alt Attributes
+You do not have any images missing Alt Attributes on your page.
+Canonical Tag
+Your page is using the Canonical Tag.
+https://www.abduledilizia.it/
+Noindex Tag Test
+Your page is not using the Noindex Tag which prevents indexing.
+Noindex Header Test
+Your page is not using the Noindex Header which prevents indexing.
+SSL Enabled
+Your website has SSL enabled.
+HTTPS Redirect
+Your page successfully redirects to a HTTPS (SSL secure) version.
+Robots.txt
+Your website appears to have a robots.txt file.
+http://www.abduledilizia.it/robots.txt
+Blocked by Robots.txt
+Your page does not appear to be blocked by robots.txt.
+Llms.txtNew
+Your website appears to have a llms.txt file.
+Llms.txt is a proposed standard for websites to guide large language models (LLMs) to better understand your site's content.
+http://www.abduledilizia.it/llms.txt
+XML Sitemaps
+Your website appears to have an XML Sitemap.
+https://www.abduledilizia.it/sitemap.xml
+Analytics
+We could not detect an analytics tool installed on your page.
+Website analytics tools like Google Analytics assist you in measuring, analyzing and ultimately improving traffic to your page.
+Schema.org Structured Data
+You are using JSON-LD Schema on your page.
+Identity SchemaNew
+No Organization or Person Schema identified on the page.
+The absence of Organization or Person Schema can make it harder for Search Engines and LLMs to identify the ownership of a website and confidently answer brand, company or person queries.
+Rendered Content (LLM Readability)New
+Your page has a high level of rendering (changes to the HTML).
+Rendering Percentage: 2010%
+Dynamically rendering a lot of page content risks some important information being missed by LLMs that generally do not read this content.
+Rankings
+Top Organic Keyword Rankings
+You can see the live Keyword Rankings for your page within the report by signing up to one of our premium plans.
+Links
+Backlink Summary
+You have a reasonably weak level of backlink activity to this page.
+Search Engines use backlinks as a strong indicator of a page's authority, relevance and ranking potential. There are various strategies available to gain links to a page to improve this factor
+Domain
+Strength
+
+Page
+Strength
+
+0
+Total Backlinks
+0
+Referring Domains
+0
+Nofollow Backlinks
+0
+Dofollow Backlinks
+0
+Edu Backlinks
+0
+Gov Backlinks
+0
+IPs
+0
+Subnets
+Top Backlinks
+We haven't found any backlinks to report for this site.
+Top Pages by Backlinks
+We haven't found any Top Pages data for this site.
+Top Anchors by Backlinks
+We haven't found any Anchor Text data for this site.
+Top Referring Domain Geographies
+We haven't found any Geographic Data for this site.
+On-Page Link Structure
+We found 20 total links. 0% of your links are external links and are sending authority to other sites. 0% of your links are nofollow links, meaning authority is not being passed to those destination pages.
+On-Page Links
+20
+Total
+Internal Links
+20
+External Links: Follow
+0
+External Links: Nofollow
+0
+Friendly Links
+Your link URLs appear friendly (easily human or search engine readable).
+
+Create White Label PDFs
+Upload your own logo and company's contact details. Generate unlimited PDFs under our White Label plans. See an example PDF Report
+
+Embed the Audit Tool into your website. Get notified of leads straight from your website.
+
+
+Usability
+Your usability could be better
+Your page is OK but could be more usable across devices. Usability is important to maximize your available audience and minimize user bounce rates (which can indirectly affect your search engine rankings).
+Device Rendering
+This check visually demonstrates how your page renders on different devices. It is important that your page is optimized for mobile and tablet experiences as today the majority of web traffic comes from these sources.
+Google's Core Web Vitals
+Google is indicating that they do not have 'sufficient real-world speed data for this page' in order to make a Core Web Vitals assessment. This can occur for smaller websites or those that are not crawl-able by Google.
+Use of Mobile Viewports
+Your page specifies a Viewport matching the device's size, allowing it to render appropriately across devices.
+Google's PageSpeed Insights - Mobile
+Google is indicating that your page is scoring poorly on their Mobile PageSpeed Insights evaluation.
+
+Note that this evaluation is being performed from US servers and the results may differ slightly from an evaluation carried out from Google's PageSpeed Web Interface as that reporting localizes to the region in which you are running the report.
+Google has indicated that the performance of a webpage is becoming more important from a user and subsequently ranking perspective.
+Lab Data	Value
+First Contentful Paint	6.1 s
+Speed Index	6.5 s
+Largest Contentful Paint	13.1 s
+Time to Interactive	13.1 s
+Total Blocking Time	0 s
+Cumulative Layout Shift	0
+Opportunities	Estimated Savings
+Reduce unused JavaScript	1.96 s
+Avoid multiple page redirects	0.63 s
+Reduce unused CSS	0.45 s
+Google's PageSpeed Insights - Desktop
+Google is indicating that your page is scoring poorly on their Desktop PageSpeed Insights evaluation.
+Google has indicated that the performance of a webpage is becoming more important from a user and subsequently ranking perspective.
+Lab Data	Value
+First Contentful Paint	1.2 s
+Speed Index	1.4 s
+Largest Contentful Paint	2.3 s
+Time to Interactive	2.3 s
+Total Blocking Time	0 s
+Cumulative Layout Shift	0.001
+Opportunities	Estimated Savings
+Reduce unused JavaScript	0.33 s
+Avoid multiple page redirects	0.19 s
+Flash Used?
+No Flash content has been identified on your page.
+iFrames Used?
+There are no iFrames detected on your page.
+Favicon
+Your page has specified a Favicon.
+Email Privacy
+No email addresses have been found in plain text on your page.
+Legible Font Sizes
+The text on your page appears to be legible across devices.
+Tap Target Sizing
+The links and buttons on your page appear to be appropriately sized for a user to easily tap on a touchscreen.
+Performance Results
+Your performance could be better
+Your page's performance has some issues and room for improvement. Performance is important to ensure a good user experience, and reduced bounce rates (which can also indirectly affect your search engine rankings). We recommend addressing the highlighted factors below.
+Website Load Speed
+Your page loads in a reasonable amount of time.
+Server Response
+0.0s
+All Page Content Loaded
+0.3s
+All Page Scripts Complete
+0.5s
+Website Download Size
+Your page's file size is quite large which, regardless of other optimizations, can reduce load speed and impact user experience.
+A general rule is to keep your page under 5MB in total file size.
+Download Page Size
+5.73MB
+Download Page Size Breakdown
+5.73MB
+Total
+HTML
+0MB
+CSS
+0.09MB
+JS
+0.57MB
+Images
+4.98MB
+Other
+0.09MB
+Compression Usage (Gzip, Deflate, Brotli)
+Your website appears to be using a reasonable level of compression.
+We recommend reviewing server compression settings, as effective compression can represent a significant and relatively easy performance improvement for websites.
+Compression Rate
+0%
+Compression Rates
+HTML
+0% compressed of 0.00MB
+CSS
+15% compressed of 0.11MB
+JS
+0% compressed of 0.57MB
+Images
+0% compressed of 4.98MB
+Other
+0% compressed of 0.09MB
+Total
+0% compressed of 5.75MB
+Resources Breakdown
+This check displays the total number of files that need to be retrieved from web servers to load your page.
+12
+
+Total Objects
+
+2
+
+Number of HTML Pages
+
+1
+
+Number of JS Resources
+
+2
+
+Number of CSS Resources
+
+5
+
+Number of Images
+
+2
+
+Other Resources
+
+Google Accelerated Mobile Pages (AMP)
+This page does not appear to have AMP Enabled.
+JavaScript Errors
+Your page is not reporting any JavaScript errors.
+HTTP2 Usage
+Your website is using the recommended HTTP/2+ Protocol.
+Optimize Images
+All of the images on your page appear to be optimized.
+Minification
+All your JavaScript and CSS files appear to be minified.
+Deprecated HTML
+No deprecated HTML tags have been found within your page.
+Inline Styles
+No Inline Styles have been found within your page's HTML tags.
+Social Results
+Your social needs improvement
+You appear to have a weak social presence or level of social activity (or we may just not be able to see your profiles!). Social activity is important for customer communication, brand awareness and as a marketing channel to bring visitors to your website. We recommend that you list all of your profiles on your page for visibility, and begin to build a following on those networks.
+Facebook Page Linked
+No associated Facebook Page found as a link on your page.
+Facebook Open Graph Tags
+Your page is using Facebook Open Graph Tags.
+Facebook Pixel
+We have not detected a Facebook Pixel on your page.
+Facebook's Pixel is a useful piece of analytics code that allows you to retarget visitors if you decide to run Facebook Ads in future.
+X (formerly Twitter) Account Linked
+No associated X Profile found as a link on your page.
+X Cards
+Your page is using X Cards.
+Instagram Linked
+No associated Instagram Profile found linked on your page
+LinkedIn Page Linked
+No associated LinkedIn Profile found linked on your page.
+YouTube Channel Linked
+No associated YouTube Channel found linked on your page.
+YouTube Channel Activity
+No associated YouTube Channel found linked on your page.
+Want to grow your YouTube Channel? Try our  
+YouTube SEO Tool
+Local SEO
+Local Business Schema
+Local Business Schema identified on the page.
+LocalBusiness
+Google Business Profile Identified
+You can see information about your page's Google Business Profile within this report by signing up to one of our premium plans.
+Want to improve your Local Search Presence? Try our  
+Local SEO Tool
+Technology Results
+Technology List
+These software or coding libraries have been identified on your page.
+Technology	Version
+	Express	
+	Google Cloud	
+	Google Cloud CDN	
+	Google Cloud Trace	
+HSTS	
+	HTTP/3	
+	Node.js	
+Server IP Address
+34.111.179.208
+DNS Servers
+r.dns.it
+nameserver.cnr.it
+m.dns.it
+v.dns.it
+a.dns.it
+dns.nic.it
+Web Server
+Google Frontend
+Charset
+text/html; charset=UTF-8
+DMARC Record
+This site appears to have a valid DMARC record in place.
+v=DMARC1; p=reject; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;
+SPF Record
+This site does not appear to have an SPF record.
+SPF records are important to improve email deliverability and combat spoofing.

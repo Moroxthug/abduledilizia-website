@@ -1,0 +1,19 @@
+# robots.txt per Abdul Edilizia
+# Permette l'indicizzazione completa del sito
+
+User-agent: *
+Allow: /
+
+# Sitemap per facilitare l'indicizzazione
+Sitemap: https://www.abduledilizia.it/sitemap.xml
+
+# Permetti tutti i principali crawler
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
